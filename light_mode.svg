@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="480px" font-size="16px">
+<style>
+@font-face {src: local('Consolas'), local('Consolas Bold');font-family: 'ConsolasFallback';font-display: swap;-webkit-size-adjust: 109%;size-adjust: 109%;}
+.key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
+.ascii {font-size: 9px;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="480px" fill="#f6f8fa" rx="15"/>
+<text class="ascii" fill="#24292f">
+<tspan x="20" y="24" textLength="440" lengthAdjust="spacing">                                                                                        </tspan>
+<tspan x="20" y="34" textLength="440" lengthAdjust="spacing">                                     -:::+**+*:                                         </tspan>
+<tspan x="20" y="44" textLength="440" lengthAdjust="spacing">                             @@= :#@@@@@@@@@@@@@@@#                                     </tspan>
+<tspan x="20" y="54" textLength="440" lengthAdjust="spacing">                           @@@@@@@@@@@@@@@@@@@@@@@@@@@@=                                </tspan>
+<tspan x="20" y="64" textLength="440" lengthAdjust="spacing">                         +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                               </tspan>
+<tspan x="20" y="74" textLength="440" lengthAdjust="spacing">                       *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=                             </tspan>
+<tspan x="20" y="84" textLength="440" lengthAdjust="spacing">                     *@@@@@@@@@@@@@@%*=-:::...-+%@@@@@@@@@@@                            </tspan>
+<tspan x="20" y="94" textLength="440" lengthAdjust="spacing">                    @@@@@@@@@@%##*=:..........    .:-=*@@@@@@                           </tspan>
+<tspan x="20" y="104" textLength="440" lengthAdjust="spacing">                   +@@@@@@@@%=--:::.......          .. .#@@@@@:                         </tspan>
+<tspan x="20" y="114" textLength="440" lengthAdjust="spacing">                   @@@@@@@@@+=-::::........  ..      ....#@@@@@                         </tspan>
+<tspan x="20" y="124" textLength="440" lengthAdjust="spacing">                  *@@@@@@@@#==-:::::::::.....:....   ..:.:%@@@@#                        </tspan>
+<tspan x="20" y="134" textLength="440" lengthAdjust="spacing">                   @@@@@@@%+===-::-==-.   ... .-==+=-:..::=@@@@@@@@@                    </tspan>
+<tspan x="20" y="144" textLength="440" lengthAdjust="spacing">                  %@@@@@@@#===+*%%@@@@%-     .+###+--=++-::%@@@@@@@%                    </tspan>
+<tspan x="20" y="154" textLength="440" lengthAdjust="spacing">                 -%@@@@@@@+=+#+=-:....:=+-   :::-:.....:=::+@@@@@%@#                    </tspan>
+<tspan x="20" y="164" textLength="440" lengthAdjust="spacing">                    @@@@@@+=++=+##%#*=+=##-.--=+:@@%**-::-:+@@@                         </tspan>
+<tspan x="20" y="174" textLength="440" lengthAdjust="spacing">                    %@@@@@+===+%%=#%::+***-.:-=+--+:-*+:.::=@@@@@                       </tspan>
+<tspan x="20" y="184" textLength="440" lengthAdjust="spacing">                      @@@@===-===----====++::-::::.::::::.:=@@.=                        </tspan>
+<tspan x="20" y="194" textLength="440" lengthAdjust="spacing">                      @#@@++==---:------+*=..--..:::....::-=#  +                        </tspan>
+<tspan x="20" y="204" textLength="440" lengthAdjust="spacing">                      %==@+*++------::.**+-  :-- .......:-===: +                        </tspan>
+<tspan x="20" y="214" textLength="440" lengthAdjust="spacing">                      %:*#***+==-::.. .++#*=-+=:......:::-==:=:+                        </tspan>
+<tspan x="20" y="224" textLength="440" lengthAdjust="spacing">                      -+*****+=+=::...::-=-:.::.......:::-=. :=                         </tspan>
+<tspan x="20" y="234" textLength="440" lengthAdjust="spacing">                       .*++#*+=+=-::::---:.-:..:.....:-::-+ .:                          </tspan>
+<tspan x="20" y="244" textLength="440" lengthAdjust="spacing">                          @@++=++=-:::==***##**=-:...-:::-@@                            </tspan>
+<tspan x="20" y="254" textLength="440" lengthAdjust="spacing">                          @@@===+=-::-**+=-------....-:::%@                             </tspan>
+<tspan x="20" y="264" textLength="440" lengthAdjust="spacing">                          @@@#++++=:::---:-=-:......:-::+@@%                            </tspan>
+<tspan x="20" y="274" textLength="440" lengthAdjust="spacing">                          :@@@*++++=--:::::.....:.::::--@@@:                            </tspan>
+<tspan x="20" y="284" textLength="440" lengthAdjust="spacing">                           @@@#*#**+=-:::...  . ..:-==-.@@@%                            </tspan>
+<tspan x="20" y="294" textLength="440" lengthAdjust="spacing">                            -@@=+**##*=-:.......:-===:..@@#:                            </tspan>
+<tspan x="20" y="304" textLength="440" lengthAdjust="spacing">                              +*--=++***=========-:...:-.                               </tspan>
+<tspan x="20" y="314" textLength="440" lengthAdjust="spacing">                             +.*=-:-==--:-::.........:=  @:                             </tspan>
+<tspan x="20" y="324" textLength="440" lengthAdjust="spacing">                            *-  =-:::---:.. ........:.    @=                            </tspan>
+<tspan x="20" y="334" textLength="440" lengthAdjust="spacing">                         =@@@     :-::::.....     -:      #@@@-                         </tspan>
+<tspan x="20" y="344" textLength="440" lengthAdjust="spacing">                      *@@@@@@        ::..      .--        +@@@@@@=                      </tspan>
+<tspan x="20" y="354" textLength="440" lengthAdjust="spacing">                   #@@@@@@@@@           -:::..--          *@@@@@@@@@+                   </tspan>
+<tspan x="20" y="364" textLength="440" lengthAdjust="spacing">              :+%@@@@@@@@@@@@            .   :            %@@@@@@@@@@@@#=:              </tspan>
+<tspan x="20" y="374" textLength="440" lengthAdjust="spacing">        -*@@@@@@@@@@@@@@@@@@@=         :@@@@@@@%          @@@@@@@@@@@@@@@@@@@@#=        </tspan>
+<tspan x="20" y="384" textLength="440" lengthAdjust="spacing">  -*@@@@@@@@@@@@@@@@@@@@@@@@@+        *@@@@@@@@@@%        @@@@@@@@@@@@@@@@@@@@@@@@@@@*= </tspan>
+<tspan x="20" y="394" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=+      #@@@@@@@@@@@*-.     *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="404" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        .=@@@@@@@@@   -+    *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="414" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:         :#@@@@@@     .    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="424" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+          *@@@@@#          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="434" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@         +@@@@@@@-        -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="444" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        =@@@@@@@@@   .    %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="20" y="454" textLength="440" lengthAdjust="spacing">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@%@*       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+</text>
+<text x="490" y="98" fill="#24292f">
+<tspan x="490" y="98">elie-henri@martin </tspan><tspan class="cc">————————————————————————————————</tspan>
+<tspan x="490" y="122" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="490" y="146" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">GlobalAccess SA</tspan>
+<tspan x="490" y="170" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Switzerland</tspan>
+<tspan x="490" y="194" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Radiology IS (RIS) &amp; medical AI</tspan>
+<tspan x="490" y="218" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VS Code, Claude Code</tspan>
+<tspan x="490" y="242" class="cc">——————————————————————————————————————————————————</tspan>
+<tspan x="490" y="266" class="cc">. </tspan><tspan class="key">Languages.Code</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, TypeScript, SQL</tspan>
+<tspan x="490" y="290" class="cc">. </tspan><tspan class="key">Languages.Stack</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">FastAPI, React, NestJS</tspan>
+<tspan x="490" y="314" class="cc">. </tspan><tspan class="key">Languages.Human</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">French, English</tspan>
+<tspan x="490" y="338" class="cc">——————————————————————————————————————————————————</tspan>
+<tspan x="490" y="362" class="cc">. </tspan><tspan class="key">Contact.Web</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">globalaccess.ch</tspan>
+<tspan x="490" y="386" class="cc">. </tspan><tspan class="key">Contact.GitHub</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">eliehenri</tspan>
+</text>
+</svg>
